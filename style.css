@@ -1,14 +1,10 @@
-body {
-  background-color: #66a747;
-  font-family: sans-serif;
-  text-align: center;
-  padding: 50px;
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
 }
-
-h1 {
-  color: #2c3e50;
+#projects {
+  background-color: #e2edff;
 }
-
-p {
-  color: #3cb371;
+section {
+  padding-top: 6rem;
 }
